@@ -1,6 +1,6 @@
 # Links mentioned in talk
 
-- [https://sensors.ioos.us/#map](IOOS sensor map)
+* [https://sensors.ioos.us/#map](IOOS sensor map)
 * [http://www.neracoos.org/erddap/index.html](NERACOOS ERDDAP)
 * [http://jupyter.org](Project Jupyter home page)
 * [http://ioos.github.io/notebooks_demos/other_resources/](Installing Jupyter locally)
@@ -11,6 +11,5 @@
 * [https://pangeo.pydata.org](Pangeo JupyterHub on Google Cloud with free access)
 * [https://pangeo.esipfed.org](Pangeo JupyterHub on AWS with restricted access -- ask me)
 * [http://pangeo.readthedocs.io/en/latest/setup_guides/hpc.html](Getting started with Pangeo on HPC)
-* [http://pangeo.readthedocs.io/en/latest/setup_guides/cloud.htmll](Getting started with Pangeo on the Cloud)
-
+* [http://pangeo.readthedocs.io/en/latest/setup_guides/cloud.html](Getting started with Pangeo on the Cloud)
 
