@@ -1,6 +1,6 @@
 # Links mentioned in talk
 
-* [https://sensors.ioos.us/#map](IOOS sensor map)
+- [https://sensors.ioos.us/#map](IOOS sensor map)
 * [http://www.neracoos.org/erddap/index.html](NERACOOS ERDDAP)
 * [http://jupyter.org](Project Jupyter home page)
 * [http://ioos.github.io/notebooks_demos/other_resources/](Installing Jupyter locally)
