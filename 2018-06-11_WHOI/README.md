@@ -8,6 +8,9 @@
 * [IOOS instructions for installing Jupyter locally](http://ioos.github.io/notebooks_demos/other_resources/)
 * ["The Scientific Paper is Obselete":The Atlantic](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 * [Run ERDDAP Glider Search notebook on Binder](https://mybinder.org/v2/gh/reproducible-notebooks/ERDDAP_glider_search/master?filepath=ERDDAPY_Intro_IOOS.ipynb)
+* [Accessing the IOOS sensor map with ERDDAP](https://github.com/ioos/notebooks_demos/blob/master/notebooks/2017-03-21-ERDDAP_IOOS_Sensor_Map.ipynb)
+* [Reproducible Notebooks that run on Binder](https://github.com/reproducible-notebooks)
+
 
 ### Pangeo links
 * [Pangeo Project home page](http://pangeo-data.org) and [Pangeo discussion](https://github.com/pangeo-data/pangeo/issues) 
