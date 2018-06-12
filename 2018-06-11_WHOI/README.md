@@ -2,7 +2,7 @@
 
 ### OOI, IOOS and ERDDAP links
 * [ERDDAP access of OOI data (5 min demo)](https://www.youtube.com/watch?v=tj4M9hodTG0)
-* [OOI Uncabled Array ERDDAP](https://erddap-uncabled.oceanobservatories.org/uncabled/erddap/index.html)
+* [OOI Uncabled Array ERDDAP - currently down](https://erddap-uncabled.oceanobservatories.org/uncabled/erddap/index.html)
 * [IOOS sensor map](https://sensors.ioos.us/#map)
 * [NERACOOS ERDDAP](http://www.neracoos.org/erddap/index.html)
 * [Project Jupyter home page](http://jupyter.org)
